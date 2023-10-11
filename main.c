@@ -1,4 +1,5 @@
-#include "chapter_2_introducing_c/programming_exercises/exercise_8.c"
+//#include "chapter_3_data_and_c/listing_3_12_the_escape_c_program.c"
+//#include "chapter_3_data_and_c/programming_exercises/exercise_8.c"
 
 int main() {
     /* Chapter 1 */
@@ -17,6 +18,18 @@ int main() {
     //function_call();
 
     /* Chapter 3 */
+    //platinum();
+    //print1();
+    //bases();
+    //too_big();
+    //print2();
+    //char_code();
+    //altnames();
+    //showf_pt();
+    //float_err();
+    //type_size();
+    //bad_count();
+    //escape();
 
     return 0;
 }
