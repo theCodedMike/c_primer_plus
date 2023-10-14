@@ -1,5 +1,5 @@
-//#include "chapter_3_data_and_c/listing_3_12_the_escape_c_program.c"
-//#include "chapter_3_data_and_c/programming_exercises/exercise_8.c"
+//#include "chapter_4_character_strings_and_formated_input_output/listing_4_17_skip2_c_program.c"
+//#include "chapter_4_character_strings_and_formated_input_output/programming_exercises/exercise_8.c"
 
 int main() {
     /* Chapter 1 */
@@ -30,6 +30,25 @@ int main() {
     //type_size();
     //bad_count();
     //escape();
+
+    /* Chapter 4 */
+    //talk_back();
+    //praisel();
+    //praise2();
+    //pizza();
+    //defines();
+    //print_out();
+    //width();
+    //floats();
+    //flags();
+    //stringf();
+    //int_conv();
+    //float_cnv();
+    //prnt_val();
+    //long_strg();
+    //input();
+    //varwid();
+    //skip2();
 
     return 0;
 }

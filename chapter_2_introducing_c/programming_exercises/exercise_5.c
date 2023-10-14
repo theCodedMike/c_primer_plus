@@ -23,7 +23,7 @@ void ic(void) {
 }
 
 __attribute__((unused))
-void print_msg(void) {
+void print_msg2(void) {
     br();
     printf(", ");
     ic();

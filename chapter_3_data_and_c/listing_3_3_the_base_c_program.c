@@ -42,7 +42,7 @@ int bases(void) {
 
     printf(" CHAR_MAX: %d\n", CHAR_MAX);  //  127
     printf(" CHAR_MIN: %d\n", CHAR_MIN);  // -128
-    printf("UCHAR_MAX: %d\n", UCHAR_MAX); //  255
+    printf("UCHAR_MAX: %u\n", UCHAR_MAX); //  255
 
     printf(" SHORT_MAX: %hd\n", SHRT_MAX);  //  32767
     printf(" SHORT_MIN: %hd\n", SHRT_MIN);  // -32768
