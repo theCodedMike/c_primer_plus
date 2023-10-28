@@ -68,4 +68,30 @@ add_executable(
         chapter_4_character_strings_and_formated_input_output/programming_exercises/exercise_6.c
         chapter_4_character_strings_and_formated_input_output/programming_exercises/exercise_7.c
         chapter_4_character_strings_and_formated_input_output/programming_exercises/exercise_8.c
+
+        chapter_5_operators_expresions_and_statemens/listing_5_1_the_shoes1_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_2_the_shoes2_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_3_the_golf_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_4_the_squares_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_5_the_wheat_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_6_the_divide_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_7_the_rules_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_8_the_sizeof_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_9_the_min_sec_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_10_the_add_one_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_11_the_post_pre_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_12_the_bottles_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_13_the_addemup_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_14_the_convert_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_15_the_pound_c_program.c
+        chapter_5_operators_expresions_and_statemens/listing_5_16_the_running_c_program.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_1.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_2.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_3.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_4.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_5.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_6.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_7.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_8.c
+        chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_9.c
 )

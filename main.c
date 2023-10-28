@@ -1,5 +1,5 @@
-//#include "chapter_4_character_strings_and_formated_input_output/listing_4_17_skip2_c_program.c"
-//#include "chapter_4_character_strings_and_formated_input_output/programming_exercises/exercise_8.c"
+//#include "chapter_5_operators_expresions_and_statemens/listing_5_16_the_running_c_program.c"
+//#include "chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_9.c"
 
 int main() {
     /* Chapter 1 */
@@ -49,6 +49,24 @@ int main() {
     //input();
     //varwid();
     //skip2();
+
+    /* Chapter 5 */
+    //shoes1();
+    //shoes2();
+    //golf();
+    //squares();
+    //wheat();
+    //divide();
+    //rules();
+    //size_of();
+    //min_sec();
+    //add_one();
+    //post_pre();
+    //bottles();
+    //add_emup();
+    //convert();
+    //user_custom_fn();
+    //running();
 
     return 0;
 }
