@@ -1,9 +1,9 @@
 //
 // 7. Many studies suggest that smiling has benefits. Write a program that produces the
 //    following output:
-//    Smile!Smile!Smile!
-//    Smile!Smile!
-//    Smile!
+//        Smile!Smile!Smile!
+//        Smile!Smile!
+//        Smile!
 //
 //    Have the program define a function that displays the string Smile! Once, and have the
 //    program use the function as often as needed.

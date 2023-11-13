@@ -1,5 +1,3 @@
-//#include "chapter_5_operators_expresions_and_statemens/listing_5_16_the_running_c_program.c"
-//#include "chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_9.c"
 
 int main() {
     /* Chapter 1 */
@@ -67,6 +65,29 @@ int main() {
     //convert();
     //user_custom_fn();
     //running();
+
+    /* Chapter 6 */
+    //summing();
+    //when();
+    //while1();
+    //while2();
+    //cmp_flt();
+    //t_and_f();
+    //truth();
+    //trouble();
+    //boolean();
+    //sweetie1();
+    //sweetie2();
+    //for_cube();
+    //postage();
+    //zeno();
+    //do_while();
+    //entry();
+    //rows1();
+    //rows2();
+    //scores_in();
+    //powwer();
+
 
     return 0;
 }

@@ -24,9 +24,9 @@ void print_name_len(void) {
     char last_name[30];
 
     printf("Please enter your first name: ");
-    gets(first_name);
+    scanf("%s", first_name);
     printf("Then enter your last name: ");
-    gets(last_name);
+    scanf("%s", last_name);
 
     int f_width = (int)strlen(first_name);
     int l_width = (int)strlen(last_name);

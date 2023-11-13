@@ -16,7 +16,7 @@ int bases(void) {
     int b = 0X1F4; // 十六进制表示
     printf("a = %d, b = %d\n\n", a, b); // a = 500, b = 500
 
-    long l = 1000000000L; // L、LL、U、UL、ULL
+    long l = 1000000000L; // ROW_COUNT、LL、U、UL、ULL
     printf("%ld %e\n\n", l, (double)l); // 1000000000 1.000000e+09
 
     char c = 'Z';
@@ -52,9 +52,9 @@ int bases(void) {
     printf(" LONG_MIN: %ld\n", LONG_MIN);   // -2147483648
     printf("ULONG_MAX: %lu\n", ULONG_MAX);  //  4294967295
 
-    printf(" LONG_LONG_MAX: %lld\n", LONG_LONG_MAX);    //  9223372036854775807   LONG_LONG_MAX == LLONG_MAX
-    printf(" LONG_LONG_MIN: %lld\n", LONG_LONG_MIN);    // -9223372036854775808   LONG_LONG_MIN == LLONG_MIN
-    printf("ULONG_LONG_MAX: %llu\n\n", ULONG_LONG_MAX); // 18446744073709551615  ULONG_LONG_MAX == ULLONG_MAX
+    printf(" LONG_LONG_MAX: %lld\n", LLONG_MAX);    //  9223372036854775807   LONG_LONG_MAX == LLONG_MAX
+    printf(" LONG_LONG_MIN: %lld\n", LLONG_MIN);    // -9223372036854775808   LONG_LONG_MIN == LLONG_MIN
+    printf("ULONG_LONG_MAX: %llu\n\n", ULLONG_MAX); // 18446744073709551615  ULONG_LONG_MAX == ULLONG_MAX
 
     printf("        FLT_MAX: %e\n", FLT_MAX);          // 3.402823e+38
     printf("        FLT_MIN: %e\n", FLT_MIN);          // 1.175494e-38

@@ -1,9 +1,9 @@
 //
 // 3. Write a program that sounds an alert and then prints the following text:
-//    Startled by the sudden sound, Sally shouted,
-//    "By the Great Pumpkin, what was that!"
+//        Startled by the sudden sound, Sally shouted,
+//        "By the Great Pumpkin, what was that!"
 //
-// 3、编写一个程序，首先输出一个警报，然后打印以下内容：
+// 3銆佺紪鍐欎竴涓▼搴忥紝鍙戝嚭涓�澹拌鎶ワ紝鐒跺悗鎵撳嵃涓嬮潰鐨勬枃鏈細
 //
 
 #include <stdio.h>

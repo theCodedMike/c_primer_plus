@@ -14,7 +14,7 @@
 #include <stdio.h>
 
 __attribute__((unused))
-void print_height(void) {
+void print_height_4(void) {
     float height = 0;
     printf("Please enter height: ___(cm)\b\b\b\b\b\b\b");
     scanf("%f", &height);
@@ -22,7 +22,7 @@ void print_height(void) {
 
     char name[30];
     printf("Please enter name: ");
-    gets(name);
+    scanf("%s", name);
 
     printf("%s, you are %.2f(m) tall.\n", name, height / 100);
 }

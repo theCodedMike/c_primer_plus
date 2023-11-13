@@ -1,8 +1,8 @@
 //
 // 5. Write a program that produces the following output: 
-//    Brazil, Russia, India, China
-//    India, China,
-//    Brazil, Russia 
+//        Brazil, Russia, India, China
+//        India, China,
+//        Brazil, Russia
 //    
 //    Have the program use two user-defined functions in addition to main(): one named 
 //    br() that prints "Brazil, Russia" once, and one named ic() that prints "India, China" 

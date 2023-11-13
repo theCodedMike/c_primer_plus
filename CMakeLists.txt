@@ -94,4 +94,43 @@ add_executable(
         chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_7.c
         chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_8.c
         chapter_5_operators_expresions_and_statemens/programming_exercises/exercise_9.c
+
+        chapter_6_c_control_statements_looping/listing_6_1_the_summing_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_2_the_when_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_3_the_while1_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_4_the_while2_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_5_the_cmpflt_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_6_the_t_and_f_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_7_the_truth_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_8_the_trouble_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_9_the_boolean_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_10_the_sweetie1_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_11_the_sweetie2_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_12_the_for_cube_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_13_the_postage_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_14_the_zeno_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_15_the_do_while_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_16_the_entry_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_17_the_rows1_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_18_the_rows2_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_19_the_scores_in_c_program.c
+        chapter_6_c_control_statements_looping/listing_6_20_the_powwer_c_program.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_1.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_2.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_3.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_4.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_5.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_6.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_7.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_8.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_9.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_10.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_11.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_12.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_13.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_14.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_15.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_16.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_17.c
+        chapter_6_c_control_statements_looping/programming_exercises/exercise_18.c
 )

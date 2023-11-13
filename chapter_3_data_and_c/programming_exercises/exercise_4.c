@@ -16,7 +16,7 @@
 #include <stdio.h>
 
 __attribute__((unused))
-void print_float(void) {
+void print_float_4(void) {
     float num = 0;
     printf("Enter a floating-point value: ");
     scanf("%f", &num);

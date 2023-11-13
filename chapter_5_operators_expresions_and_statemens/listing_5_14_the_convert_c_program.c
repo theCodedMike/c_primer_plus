@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 __attribute__((unused))
-int convert(void) {
+int convert_5(void) {
     char ch;
     int i;
     float f1;

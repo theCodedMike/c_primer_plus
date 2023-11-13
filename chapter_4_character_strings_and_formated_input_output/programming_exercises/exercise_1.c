@@ -12,9 +12,9 @@ void print_first_last_name(void) {
     char last_name[20];
 
     printf("Please enter your first name: ");
-    gets(first_name);
+    scanf("%s", first_name);
     printf("Now enter your last name: ");
-    gets(last_name);
+    scanf("%s", last_name);
 
     printf("Hello, %s %s, welcome to programming world!\n", last_name, first_name);
 }

@@ -11,7 +11,7 @@
 #define CM_PER_INCH 2.54
 
 __attribute__((unused))
-void print_height(void) {
+void print_height_3(void) {
     float height = 0;
     printf("Please enter your height: _____(in inch)\b\b\b\b\b\b\b\b\b\b\b\b\b\b");
     scanf("%f", &height);

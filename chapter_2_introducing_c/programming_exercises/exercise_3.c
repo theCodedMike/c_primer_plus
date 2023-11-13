@@ -1,19 +1,19 @@
 //
 // 3. Write a program that converts your age in years to days and displays both values. At this
-//    point, don¡¯t worry about fractional years and leap years.
+//    point, don't worry about fractional years and leap years.
 //
-// 3¡¢±àĞ´Ò»¸ö³ÌĞò°ÑÄãµÄÄêÁä×ª»»³ÉÌìÊı£¬²¢ÏÔÊ¾Õâ2¸öÖµ¡£ÕâÀï²»ÓÃ¿¼ÂÇĞ¡ÊıÄêºÍÈòÄê¡£
+// 3ã€ç¼–å†™ä¸€ä¸ªç¨‹åºï¼ŒæŠŠä½ çš„å¹´é¾„è½¬æ¢æˆå¤©æ•°ï¼Œå¹¶æ˜¾ç¤ºè¿™2ä¸ªå€¼ã€‚è¿™é‡Œä¸ç”¨è€ƒè™‘é—°å¹´çš„é—®é¢˜ã€‚
 //
 
 #include <stdio.h>
 
 __attribute__((unused))
-void convert(void) {
+void convert_years_to_days(void) {
     int age = 0;
     int days = 0;
 
-    printf("ÇëÊäÈëÄãµÄÄêÁä(Äê)£º");
+    printf("Please enter your age in year: ");
     scanf("%d", &age);
     days = age * 365;
-    printf("ÄãµÄÄêÁäÊÇ£º%dËê£¬¼´%dÌì", age, days);
+    printf("Your age is %d years(%d days).", age, days);
 }

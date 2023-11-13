@@ -8,13 +8,12 @@
 //
 
 #include <stdio.h>
-#include <math.h>
 
 __attribute__((unused))
 void print_toes(void) {
     int toes = 10;
     int double_toes = toes * 2;
-    int square_toes= (int)pow(toes, 2);
+    int square_toes= toes * toes;
 
     printf("       toes: %d\n", toes);
     printf("double_toes: %d\n", double_toes);

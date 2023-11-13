@@ -29,7 +29,7 @@ void print_gas_consumed(void) {
     scanf("%lf", &gallons);
 
     printf("        distance: %10.3f(miles) %10.3f(KM)\n", miles, miles * KILOMETERS_PER_MILE);
-    printf("    gas consumed: %10.3f(gal)   %10.3f(L)\n", gallons, gallons * LITERS_PER_GALLON);
+    printf("    gas consumed: %10.3f(gal)   %10.3f(ROW_COUNT)\n", gallons, gallons * LITERS_PER_GALLON);
     printf("miles-per-gallon: %.3f(m/g)\n", miles / gallons);
-    printf("     l-per-100km: %.3f(L/100KM)\n", (100 * gallons * LITERS_PER_GALLON) / (miles * KILOMETERS_PER_MILE));
+    printf("     l-per-100km: %.3f(ROW_COUNT/100KM)\n", (100 * gallons * LITERS_PER_GALLON) / (miles * KILOMETERS_PER_MILE));
 }

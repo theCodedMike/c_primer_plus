@@ -20,7 +20,7 @@ void print_first_name(void) {
     char first_name[40];
 
     printf("Please enter your first name: ");
-    gets(first_name);
+    scanf("%s", first_name);
 
     printf("\"%s\"\n", first_name);
     printf("\"%20s\"\n", first_name);
