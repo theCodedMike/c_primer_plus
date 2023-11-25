@@ -88,6 +88,19 @@ int main() {
     //scores_in();
     //powwer();
 
+    /* Chapter 7 */
+    //cold_days();
+    //cypher1();
+    //cypher2();
+    //electric();
+    //divisors();
+    //ch_count();
+    //word_cnt();
+    //paint();
+    //skip_part();
+    //break_();
+    //animals();
+    //vowels();
 
     return 0;
 }

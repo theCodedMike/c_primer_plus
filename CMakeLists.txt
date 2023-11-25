@@ -133,4 +133,28 @@ add_executable(
         chapter_6_c_control_statements_looping/programming_exercises/exercise_16.c
         chapter_6_c_control_statements_looping/programming_exercises/exercise_17.c
         chapter_6_c_control_statements_looping/programming_exercises/exercise_18.c
+
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_1_the_colddays_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_2_the_cypher1_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_3_the_cypher2_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_4_the_electric_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_5_the_divisors_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_6_the_chcount_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_7_the_wordcnt_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_8_the_paint_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_9_the_skippart_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_10_the_break_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_11_the_animals_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/listing_7_12_the_vowels_c_program.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_1.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_2.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_3.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_4.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_5.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_6.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_7.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_8.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_9.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_10.c
+        chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_11.c
 )
