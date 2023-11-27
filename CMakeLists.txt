@@ -157,4 +157,21 @@ add_executable(
         chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_9.c
         chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_10.c
         chapter_7_c_control_statements_branching_and_jumps/programming_exercises/exercise_11.c
+
+        chapter_8_character_input_output_and_input_validation/listing_8_1_the_echo_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_2_the_echo_eof_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_3_the_file_eof_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_4_the_guess_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_5_the_show_char1_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_6_the_show_char2_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_7_the_checking_c_program.c
+        chapter_8_character_input_output_and_input_validation/listing_8_8_the_menuette_c_program.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_1.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_2.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_3.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_4.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_5.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_6.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_7.c
+        chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_8.c
 )

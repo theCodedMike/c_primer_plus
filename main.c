@@ -102,5 +102,15 @@ int main() {
     //animals();
     //vowels();
 
+    /* Chapter 8 */
+    //echo();
+    //echo_eof();
+    //file_eof();
+    //guess();
+    //show_char1();
+    //show_char2();
+    //checking();
+    //menu_ette();
+
     return 0;
 }
