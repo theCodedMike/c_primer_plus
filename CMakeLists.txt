@@ -174,4 +174,31 @@ add_executable(
         chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_6.c
         chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_7.c
         chapter_8_character_input_output_and_input_validation/programming_exercises/exercise_8.c
+
+        chapter_9_functions/listing_9_1_the_lethead1_c_program.c
+        chapter_9_functions/listing_9_2_the_lethead2_c_program.c
+        chapter_9_functions/listing_9_3_the_lesser_c_program.c
+        chapter_9_functions/listing_9_4_the-misuse_c_program.c
+        chapter_9_functions/listing_9_5_the_proto_c_program.c
+        chapter_9_functions/listing_9_6_the_recur_c_program.c
+        chapter_9_functions/listing_9_7_the_factor_c_program.c
+        chapter_9_functions/listing_9_8_the_binary_c_program.c
+        chapter_9_functions/listing_9_9_the_use_hotel_c_program.c
+        chapter_9_functions/listing_9_11_the_hotel.h
+        chapter_9_functions/listing_9_10_the_hotel_c_program.c
+        chapter_9_functions/listing_9_12_the_loccheck_c_program.c
+        chapter_9_functions/listing_9_13_the_swap1_c_program.c
+        chapter_9_functions/listing_9_14_the_swap2_c_program.c
+        chapter_9_functions/listing_9_15_the_swap3_c_program.c
+        chapter_9_functions/programming_exercises/exercise_1.c
+        chapter_9_functions/programming_exercises/exercise_2.c
+        chapter_9_functions/programming_exercises/exercise_3.c
+        chapter_9_functions/programming_exercises/exercise_4.c
+        chapter_9_functions/programming_exercises/exercise_5.c
+        chapter_9_functions/programming_exercises/exercise_6.c
+        chapter_9_functions/programming_exercises/exercise_7.c
+        chapter_9_functions/programming_exercises/exercise_8.c
+        chapter_9_functions/programming_exercises/exercise_9.c
+        chapter_9_functions/programming_exercises/exercise_10.c
+        chapter_9_functions/programming_exercises/exercise_11.c
 )

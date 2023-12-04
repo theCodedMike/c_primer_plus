@@ -112,5 +112,20 @@ int main() {
     //checking();
     //menu_ette();
 
+    /* Chapter 9 */
+    //lethead1();
+    //lethead2();
+    //lesser();
+    //misuse();
+    //proto();
+    //recur();
+    //factor();
+    //binary();
+    //use_hotel();
+    //loc_check();
+    //swap1();
+    //swap2();
+    //swap3();
+
     return 0;
 }
